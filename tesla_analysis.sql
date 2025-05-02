@@ -1,5 +1,4 @@
 -- Tesla Stock Analysis SQL Project
--- This project demonstrates advanced SQL skills for data analysis
 
 -- Create database and table
 CREATE DATABASE IF NOT EXISTS tesla_analysis;
@@ -15,8 +14,6 @@ CREATE TABLE IF NOT EXISTS tesla_stock (
     volume BIGINT
 );
 
--- Note: You'll need to import the CSV data into this table using your preferred method
--- For example, using MySQL Workbench's Table Data Import Wizard or LOAD DATA INFILE
 
 -- 1. Basic Data Exploration
 SELECT 
