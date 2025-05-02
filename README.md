@@ -5,7 +5,7 @@ This project demonstrates advanced SQL skills in financial data analysis using T
 
 ## Dataset
 - Source: Historical Tesla (TSLA) stock data
-- Time Period: 2010-07-01 to present
+- Time Period: 2010-07-01 to 2021
 - Data Points: Daily stock prices (open, high, low, close, adjusted close) and trading volume
 
 ## Technical Skills Demonstrated
@@ -93,7 +93,7 @@ Potential areas for expansion:
 - Machine learning integration for predictions
 
 ## Author
-[Your Name]
+Baseem Mokhtarzada
 - Information Science Major
 - Aspiring Data Analyst
 
