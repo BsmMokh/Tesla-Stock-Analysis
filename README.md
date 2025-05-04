@@ -62,12 +62,6 @@ This project demonstrates advanced SQL skills in financial data analysis using T
     - Identification of major price changes
     - Market event analysis
 
-## Setup Instructions
-1. Install MySQL and MySQL Workbench
-2. Create the database and table using the provided SQL script
-3. Import the TSLA.csv data using MySQL Workbench's Import Wizard
-4. Execute the analysis queries in sequence
-
 ## Results Interpretation
 Each query provides specific insights into Tesla's stock performance:
 - Moving averages help identify trends
@@ -83,14 +77,6 @@ This analysis provides valuable insights for:
 - Risk assessment
 - Trading strategy development
 - Financial market research
-
-## Future Enhancements
-Potential areas for expansion:
-- Integration with real-time data feeds
-- Automated reporting
-- Additional technical indicators
-- Comparative analysis with other stocks
-- Machine learning integration for predictions
 
 ## Author
 Baseem Mokhtarzada
